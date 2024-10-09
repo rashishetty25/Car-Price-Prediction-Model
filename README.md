@@ -4,12 +4,15 @@ Course: Machine Learning I
 Semester II
 
 Utilized Machine Learning Regression Algorithms to build a Car Price Prediction Model.
+
 Dataset: https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?resource=download
+
 Models: Linear Regression, Random Forest, Gradient Boosting, ElasticNet, Ridge Regression, and XGBoost
 
-XGBoost achieved a high R-squared score of 0.937729 after hyperparameter tuning and optimizing model performance.
+After hyperparameter tuning and optimizing model performance, XGBoost achieved a high R-squared score of 0.937729.
 
 Features Included:
+
 
 Model: The model of the car.
 - Year: The manufacturing year of the car.
