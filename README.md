@@ -9,7 +9,9 @@ Dataset: https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-
 
 Models: Linear Regression, Random Forest, Gradient Boosting, ElasticNet, Ridge Regression, and XGBoost
 
-After hyperparameter tuning and optimizing model performance, XGBoost achieved a high R-squared score of 0.937729.
+After fine-tuning and optimizing model performance, XGBoost achieved a high R-squared score of 0.937729.
+
+Performed: Data Cleaning, Pre-processing, Exploratory Data Analysis, Statistical Analysis, and K-means Clustering to aid Feature Engineering. Application and understanding of real-world implications of the data and domain knowledge was required to build the model.
 
 Features Included:
 
