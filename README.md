@@ -1,6 +1,8 @@
 # ***Car-Price-Prediction-Model***
 Course Code: ITS08PR2 
+
 Course: Machine Learning I
+
 Semester II
 
 Utilized Machine Learning Regression Algorithms to build a Car Price Prediction Model.
