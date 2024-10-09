@@ -7,7 +7,7 @@ Semester II
 
 Utilized Machine Learning Regression Algorithms to build a Car Price Prediction Model.
 
-Dataset: https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?resource=download
+Dataset: https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024
 
 Models: Linear Regression, Random Forest, Gradient Boosting, ElasticNet, Ridge Regression, and XGBoost
 
